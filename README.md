@@ -1,7 +1,9 @@
 # Sentiment_Analysis
 The project aims to perform sentiment analysis on Twitter data using the Tweepy library. Sentiment analysis is an NLP technique that determines the sentiment expressed in a piece of text, in this case, tweets from Twitter. The project collects tweets related to specific topics or events using Tweepy, processes the text data, and then applies a sentiment analysis model to classify the tweets as positive, negative, or neutral based on the sentiment expressed.
 
-We can first extract the tweets on a particular topic, the topic is specifiied by the user. In this case we have taken the tweets related to the 
+We can first extract the tweets on a particular topic, the topic is specifiied by the user. In this case we have taken the tweets related to the football and FIFA
+
+
 Some of the outputs of the code are as shown below:
 
 It categorizes the tweets into social , economical or other groups using Jaccard score
