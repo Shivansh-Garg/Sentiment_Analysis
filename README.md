@@ -3,7 +3,11 @@ The project aims to perform sentiment analysis on Twitter data using the Tweepy 
 
 ![image](https://github.com/Shivansh-Garg/Sentiment_Analysis/assets/79331252/a2c257a6-2115-42fd-86dd-320306c5a2dc)
 
-![image](https://github.com/Shivansh-Garg/Sentiment_Analysis/assets/79331252/0f637990-718a-4c2e-838e-87068fc5896f)
+![image](https://github.com/Shivansh-Garg/Sentiment_Analysis/assets/79331252/27d6220d-8388-4994-b897-d540387cf482)
 
+![image](https://github.com/Shivansh-Garg/Sentiment_Analysis/assets/79331252/6f83e391-862a-4771-9465-133228d6a785)
 
+![image](https://github.com/Shivansh-Garg/Sentiment_Analysis/assets/79331252/6340f82e-76a7-48fe-9483-87afeecf9089)
+
+![image](https://github.com/Shivansh-Garg/Sentiment_Analysis/assets/79331252/2cee754f-7378-4878-98cc-ae07a2830194)
 
